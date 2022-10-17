@@ -41,4 +41,4 @@ elastic-search-configs:
   connection-url: http://localhost:9200
   connection-timeout-ms: 5000
   socket-timeout-ms: 30000
-  use-spring-repository: false
+  use-spring-repository: true
